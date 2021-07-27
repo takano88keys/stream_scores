@@ -1,0 +1,16 @@
+input{
+	border:none;
+}
+#senkou_name{
+	width:60px;
+}
+#senkou_name{
+	float:left;
+}
+#koukou_name{
+	width:60px;
+}
+
+#koukou_name{
+	float:left;
+}
